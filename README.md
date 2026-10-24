@@ -27,3 +27,7 @@ Python · OpenAI API · LangChain · Langflow · n8n · FastAPI · GitHub
 
 - Telegram: [@AlexArst2000](https://t.me/AlexArst2000)
 - Канал-портфолио: [ИИ для бизнеса](https://t.me/alex_aristov_ai)
+## Статистика GitHub
+
+![GitHub followers](https://img.shields.io/github/followers/alexeyaristov?style=flat&label=Followers)
+![GitHub stars](https://img.shields.io/github/stars/alexeyaristov?style=flat&label=Stars)
