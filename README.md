@@ -1,16 +1,29 @@
-## Hi there 👋
+# Алексей Аристов
 
-<!--
-**alexeyaristov/alexeyaristov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Предприниматель и маркетолог. Развиваюсь в промпт-инжиниринге и применении ИИ для бизнес-задач.
 
-Here are some ideas to get you started:
+Создаю учебные проекты: Telegram-ботов, ИИ-ассистентов и автоматизации. Мне интересно упрощать обработку информации, поиск данных и ответы на вопросы клиентов.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Навыки
+
+- Создание и тестирование промптов.
+- Разработка Telegram-ботов на Python.
+- Подключение языковых моделей через API.
+- Работа с RAG: поиск информации в базе знаний для подготовки ответов.
+- Сборка агентов и автоматизаций в Langflow и n8n.
+- Создание API на FastAPI и работа с JSON.
+
+## Инструменты
+
+Python · OpenAI API · LangChain · Langflow · n8n · FastAPI · GitHub
+
+## Обучение и практика
+
+Прошёл обучение по направлениям «1С», «Нейросети» и «Промпт-инжиниринг».
+
+В репозиториях размещаю учебные проекты. В описаниях указываю задачи, свой вклад, инструкции запуска и ограничения решений.
+
+## Контакты
+
+- Telegram: [@AlexArst2000](https://t.me/AlexArst2000)
+- Канал-портфолио: [ИИ для бизнеса](https://t.me/alex_aristov_ai)
